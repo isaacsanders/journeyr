@@ -1,8 +1,17 @@
-This is an app that allows one to track their steps through a journey that they
-have taken.
+# journeyr
 
-A journey can be a career, a major life change, or it can be a soul-searching
-journey.
+A website written in noir. 
 
-> A journey of a thousand miles begins with a single step.
--- Lao-tzu
+## Usage
+
+```bash
+lein deps
+lein run
+```
+
+## License
+
+Copyright (C) 2011 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
